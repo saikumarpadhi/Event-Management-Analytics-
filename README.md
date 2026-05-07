@@ -82,4 +82,4 @@ You can view the fully interactive Power BI dashboard published on the web here:
 ### Option 2: Download the `.pbix` file
 1. Clone this repository: 
    ```bash
-   git clone [https://github.com/yourusername/ksr-datavizon-hackathon.git](https://github.com/yourusername/ksr-datavizon-hackathon.git)
+   git clone [[https://github.com/yourusername/ksr-datavizon-hackathon.git](https://github.com/yourusername/ksr-datavizon-hackathon.git)](https://github.com/saikumarpadhi/Event-Management-Analytics-/blob/main/HACKATHON.pbix)
