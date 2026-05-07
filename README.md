@@ -1,4 +1,4 @@
-# [cite_start]📊 KSR Datavizon Event Management Hackathon [cite: 24]
+# 📊 KSR Datavizon Event Management Hackathon 
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Data Analytics](https://img.shields.io/badge/Data_Analytics-123456?style=for-the-badge&logo=data&logoColor=white)
