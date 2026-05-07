@@ -39,4 +39,4 @@ Access the complete project resources using the links below:
 ---
 
 ## 👨‍💻 Author
-**Saikumar Panigrahi** *Scholar Trainee*
+**Saikumar Padhi**
